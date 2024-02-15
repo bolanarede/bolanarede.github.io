@@ -54768,7 +54768,7 @@ A.qj.prototype={
 bd(){var s=0,r=A.C(t.H),q=this
 var $async$bd=A.D(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:q.gfp().w=A.b6v()
-q.gfp().b="http://127.0.0.1:8080/api/v1/rodadas"
+q.gfp().b="https://opynwsavec.us17.qoddiapp.com/api/v1/rodadas"
 q.gfp().x=B.dx
 q.oM()
 return A.A(null,r)}})
@@ -54800,7 +54800,7 @@ arI(a,b,c){var s=0,r=A.C(t.wq),q,p=this,o,n
 var $async$Cn=A.D(function(d,e){if(d===1)return A.z(e,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.v(p.ou(0,"http://127.0.0.1:8080/api/v1/classificacoes/grupo/"+a+"/edicao/"+b,A.aj(["Authorization","Bearer "+c.a],o,o),t.z),$async$Cn)
+return A.v(p.ou(0,"https://opynwsavec.us17.qoddiapp.com/api/v1/classificacoes/grupo/"+a+"/edicao/"+b,A.aj(["Authorization","Bearer "+c.a],o,o),t.z),$async$Cn)
 case 3:n=e
 p.kX(n)
 q=A.bw(n.r,t.wq)
@@ -54813,7 +54813,7 @@ arK(a,b,c){var s=0,r=A.C(t.wq),q,p=this,o,n
 var $async$Cp=A.D(function(d,e){if(d===1)return A.z(e,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.v(p.ou(0,"http://127.0.0.1:8080/api/v1/classificacoes/rodada/"+a+"/grupo/"+b,A.aj(["Authorization","Bearer "+c.a],o,o),t.z),$async$Cp)
+return A.v(p.ou(0,"https://opynwsavec.us17.qoddiapp.com/api/v1/classificacoes/rodada/"+a+"/grupo/"+b,A.aj(["Authorization","Bearer "+c.a],o,o),t.z),$async$Cp)
 case 3:n=e
 p.kX(n)
 q=A.bw(n.r,t.wq)
@@ -54826,7 +54826,7 @@ A.r7.prototype={
 bd(){var s=0,r=A.C(t.H),q=this
 var $async$bd=A.D(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:q.gfp().w=A.b5G()
-q.gfp().b="http://127.0.0.1:8080/api/v1/grupos"
+q.gfp().b="https://opynwsavec.us17.qoddiapp.com/api/v1/grupos"
 q.gfp().x=B.dx
 q.oM()
 return A.A(null,r)}})
@@ -54849,7 +54849,7 @@ A.DR.prototype={
 bd(){var s=0,r=A.C(t.H),q=this
 var $async$bd=A.D(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:q.gfp().w=A.b6k()
-q.gfp().b="http://127.0.0.1:8080/api/v1/palpites"
+q.gfp().b="https://opynwsavec.us17.qoddiapp.com/api/v1/palpites"
 q.gfp().x=B.dx
 q.oM()
 return A.A(null,r)}})
@@ -54925,7 +54925,7 @@ arN(a,b){var s=0,r=A.C(t.ne),q,p=this,o,n
 var $async$Cq=A.D(function(c,d){if(c===1)return A.z(d,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.v(p.ou(0,"http://127.0.0.1:8080/api/v1/rodadas/"+a+"/jogos",A.aj(["Authorization","Bearer "+b.a],o,o),t.z),$async$Cq)
+return A.v(p.ou(0,"https://opynwsavec.us17.qoddiapp.com/api/v1/rodadas/"+a+"/jogos",A.aj(["Authorization","Bearer "+b.a],o,o),t.z),$async$Cq)
 case 3:n=d
 p.kX(n)
 q=A.bw(n.r,t.ne)
@@ -54944,7 +54944,7 @@ var $async$Dw=A.D(function(c,d){if(c===1)return A.z(d,r)
 while(true)switch(s){case 0:o=t.N
 n=t.Le
 s=3
-return A.v(p.aws("http://127.0.0.1:8080/auth/token",A.aj(["username",a,"password",b],o,o),A.b6W(),n),$async$Dw)
+return A.v(p.aws("https://opynwsavec.us17.qoddiapp.com/auth/token",A.aj(["username",a,"password",b],o,o),A.b6W(),n),$async$Dw)
 case 3:m=d
 p.kX(m)
 q=A.bw(m.r,n)
@@ -54961,7 +54961,7 @@ m=A.aj(["Authorization","Bearer "+c.a],m,m)
 o=t.Bb
 if(p.db)A.M("Can not emit events to disposed clients")
 s=3
-return A.v(p.gfp().DB(0,"http://127.0.0.1:8080/api/v1/participantes",l,null,null,m,null,null,o),$async$Bo)
+return A.v(p.gfp().DB(0,"https://opynwsavec.us17.qoddiapp.com/api/v1/participantes",l,null,null,m,null,null,o),$async$Bo)
 case 3:n=e
 p.kX(n)
 q=A.bw(n.r,o)
@@ -54975,7 +54975,7 @@ var $async$u6=A.D(function(b,c){if(b===1)return A.z(c,r)
 while(true)switch(s){case 0:o=t.N
 n=t.Bb
 s=3
-return A.v(p.ou(0,"http://127.0.0.1:8080/api/v1/participantes/logado",A.aj(["Authorization","Bearer "+a.a],o,o),n),$async$u6)
+return A.v(p.ou(0,"https://opynwsavec.us17.qoddiapp.com/api/v1/participantes/logado",A.aj(["Authorization","Bearer "+a.a],o,o),n),$async$u6)
 case 3:m=c
 p.kX(m)
 q=A.bw(m.r,n)
