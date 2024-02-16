@@ -53671,7 +53671,7 @@ return q},
 $S:440}
 A.Nc.prototype={
 J(a){var s=null,r=t.p,q=t.nk
-return A.dE(A.a([A.G0(s,A.a([new A.hz(A.a([A.dE(A.a([A.bS(s,B.WC,B.m,B.bQ,s,s,s,s,s,s,s)],r),B.cA,B.Y,B.M)],r))],q),s,B.AB),A.G0(A.aLX(),A.a([new A.hz(A.a([A.bS(s,B.Wz,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.AY,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.AX,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.WB,B.m,B.bQ,s,s,s,s,s,s,s)],r))],q),B.vp,B.it)],r),B.R,B.Y,B.M)}}
+return A.dE(A.a([A.G0(s,A.a([new A.hz(A.a([A.dE(A.a([A.bS(s,B.WD,B.m,B.bQ,s,s,s,s,s,s,s)],r),B.cA,B.Y,B.M)],r))],q),s,B.AB),A.G0(A.aLX(),A.a([new A.hz(A.a([A.bS(s,B.WA,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.AY,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.AX,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.WC,B.m,B.bQ,s,s,s,s,s,s,s)],r))],q),B.vp,B.it)],r),B.R,B.Y,B.M)}}
 A.qq.prototype={
 J(a){var s=J.jD(this.e,this.gaa2(),t.l7)
 return A.aou(A.dE(A.ad(s,!0,A.n(s).i("aA.E")),B.R,B.Y,B.M))},
@@ -53752,7 +53752,7 @@ case 2:return A.z(o,r)}})
 return A.B($async$zw,r)}}
 A.Ya.prototype={}
 A.vQ.prototype={
-J(a){var s=null,r=A.uk().$3$color$fontSize$fontWeight(B.i,15,B.X),q=A.uk().$3$color$fontSize$fontWeight(B.dF,15,B.X),p=A.uE(s,B.Wy),o=$.a0
+J(a){var s=null,r=A.uk().$3$color$fontSize$fontWeight(B.i,15,B.X),q=A.uk().$3$color$fontSize$fontWeight(B.dF,15,B.X),p=A.uE(s,B.Wz),o=$.a0
 if(o==null)o=$.a0=B.n
 o=o.aR(0,s,A.n(this).i("cA.T"))
 o.toString
@@ -53824,7 +53824,7 @@ if(r==null){r=self.window.devicePixelRatio
 if(r===0)r=1}r=s.fz(0,r)
 s=this.c.ay
 q=t.p
-q=A.a([A.bS(o,A.iI(A.a([B.HG,B.QQ,A.aJg(A.dE(A.a([A.bv(s.b+" ("+s.c+")",o,o,o,o,B.AR,o,o)],q),B.fV,B.cK,B.M),1)],q),B.R,B.Y,B.M),B.m,B.aR,o,o,56,o,o,B.GB,o),B.WD,A.CY(!0,B.HJ,new A.a8x(),o,B.Wo,o),A.CY(!0,B.HE,new A.a8y(this),o,B.Wt,o)],q)
+q=A.a([A.bS(o,A.iI(A.a([B.HG,B.QQ,A.aJg(A.dE(A.a([A.bv(s.b+" ("+s.c+")",o,o,o,o,B.AR,o,o)],q),B.fV,B.cK,B.M),1)],q),B.R,B.Y,B.M),B.m,B.aR,o,o,56,o,o,B.GB,o),B.Wp,A.CY(!0,B.HJ,new A.a8x(),o,B.Wo,o),A.CY(!0,B.HE,new A.a8y(this),o,B.Wu,o)],q)
 s=A.aj([null,0],t.LO,t.S)
 p=!0
 p=p?B.mx:o
@@ -53960,7 +53960,7 @@ q=$.a0
 p=A.xO(j,j,(q==null?$.a0=B.n:q).aR(0,j,s).gy6()?B.aR:A.U(120,33,150,243),j,j,j,j,j,j,B.i,j,j,B.h_,j,B.zs,j,j,j,j)
 o=$.a0
 s=(o==null?$.a0=B.n:o).aR(0,j,s)
-return A.dE(A.a([B.QU,i,h,B.lC,r,B.Ao,A.cE(A.xN(B.Wq,s.gy6()?s.gahk():j,p),40,130)],t.p),B.cA,B.Y,B.M)},
+return A.dE(A.a([B.QU,i,h,B.lC,r,B.Ao,A.cE(A.xN(B.Wr,s.gy6()?s.gahk():j,p),40,130)],t.p),B.cA,B.Y,B.M)},
 $S:125}
 A.Qs.prototype={
 nP(){A.l4($.aD(),new A.ahj(),t.Nc)},
@@ -54173,7 +54173,7 @@ $0(){var s=null,r=this.a,q=r.d
 q===$&&A.b()
 if(q.db.gl(0))r=B.Pg
 else{if(r.e)q=r.d.dx.gl(0)?new A.AH(A.bv("PALPITE:  "+A.f(r.d.cx.gl(0))+" X "+A.f(r.d.cy.gl(0)),s,s,s,s,B.lM,s,s),s):B.DH
-else q=r.d.dx.gl(0)?A.bv("PALPITOU:  "+A.f(r.d.cx.gl(0))+" X "+A.f(r.d.cy.gl(0)),s,s,s,s,B.lM,s,s):B.Wr
+else q=r.d.dx.gl(0)?A.bv("PALPITOU:  "+A.f(r.d.cx.gl(0))+" X "+A.f(r.d.cy.gl(0)),s,s,s,s,B.lM,s,s):B.Ws
 r=A.iI(A.a([q,B.QR,A.qm(B.ni,B.HI,new A.ajF(r),!1,s,"Palpites")],t.p),B.R,B.eS,B.M)}return r},
 $S:415}
 A.ajF.prototype={
@@ -54204,7 +54204,7 @@ l=A.dE(A.a([B.Wn,B.G4,A.iI(A.a([s,B.db,new A.mU(new A.ajw(m),n),B.db,A.cE(new A.
 s=A.cE(A.dE(A.a([A.iI(A.a([A.bv(m.d.ch.d.d,n,n,n,n,B.bC,n,n),B.db,A.qm(B.dF,B.oH,new A.ajx(m),!1,B.Ay,n),B.An,A.qm(B.aR,B.oI,new A.ajy(m),!1,B.Aw,n)],r),B.R,B.cK,B.M),B.lC,A.iI(A.a([A.bv(m.d.ch.e.d,n,n,n,n,B.bC,n,n),B.db,A.qm(B.dF,B.oH,new A.ajz(m),!1,B.Ay,n),B.An,A.qm(B.aR,B.oI,new A.ajA(m),!1,B.Aw,n)],r),B.R,B.cK,B.M)],r),B.R,B.Y,B.M),120,n)
 q=A.xO(n,n,B.aR,n,n,n,n,n,n,B.i,n,n,n,n,n,n,n,n,n)
 p=this.c
-o=m.d.dy.gl(0)?B.WA:B.Wx
+o=m.d.dy.gl(0)?B.WB:B.Wy
 return new A.rV(new A.LR(l,s,A.a([A.xN(o,new A.ajB(m,this.b,p),q),A.xN(B.Wm,new A.ajC(m,p),A.xO(n,n,B.ns,n,n,n,n,n,n,B.i,n,n,n,n,n,n,n,n,n))],r),n),!1,n)},
 $S:413}
 A.ajw.prototype={
@@ -54395,7 +54395,7 @@ return o},
 $S:380}
 A.Uj.prototype={
 J(a){var s=null,r=t.p,q=t.nk,p=this.c.c
-return A.dE(A.a([A.G0(s,A.a([new A.hz(A.a([A.dE(A.a([A.bS(s,B.Wu,B.m,B.bQ,s,s,s,s,s,s,s)],r),B.cA,B.Y,B.M)],r))],q),s,B.AB),A.G0(A.aLX(),A.a([new A.hz(A.a([A.bS(s,B.AY,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,A.bv(p.d.d,s,s,s,s,B.dX,B.au,s),B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,A.bv(p.e.d,s,s,s,s,B.dX,B.au,s),B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.AX,B.m,B.bQ,s,s,s,s,s,s,s)],r))],q),B.vo,B.it)],r),B.R,B.Y,B.M)}}
+return A.dE(A.a([A.G0(s,A.a([new A.hz(A.a([A.dE(A.a([A.bS(s,B.Wv,B.m,B.bQ,s,s,s,s,s,s,s)],r),B.cA,B.Y,B.M)],r))],q),s,B.AB),A.G0(A.aLX(),A.a([new A.hz(A.a([A.bS(s,B.AY,B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,A.bv(p.d.d,s,s,s,s,B.dX,B.au,s),B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,A.bv(p.e.d,s,s,s,s,B.dX,B.au,s),B.m,B.bQ,s,s,s,s,s,s,s),A.bS(s,B.AX,B.m,B.bQ,s,s,s,s,s,s,s)],r))],q),B.vo,B.it)],r),B.R,B.Y,B.M)}}
 A.tx.prototype={
 J(a){var s=J.jD(this.c,this.gah9(),t.l7)
 return A.aou(A.dE(A.ad(s,!0,A.n(s).i("aA.E")),B.R,B.Y,B.M))},
@@ -54426,7 +54426,7 @@ J(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=this.c,d=e.z,c=d?B.V9:B.Vl,b=e.c,a=
 b=e.y
 s=b||e.x
 r=s?A.f(e.f):"V"
-q=s?" "+A.f(e.r):" S"
+q=s?A.f(e.r):"S"
 p=J.aUo(B.b.gH(B.c.fu(e.b).split(" - ")))
 o=p.length
 if(o>35)for(n=0,m=0;m<o;++m){if(p[m]===" ")++n
@@ -54442,14 +54442,14 @@ if(e.x)b=B.HL
 else b=b?B.BY:B.HF
 o=A.iI(A.a([j,b],o),B.R,B.eS,B.M)
 b=o}o=e.d
-j=A.wQ(f,A.cE(A.bS(f,f,B.m,this.a0Q(o.f),f,f,f,f,f,f,k-40),40,f),f,f,20,f,9,f)
+j=A.wQ(f,A.cE(A.bS(f,f,B.m,this.a0Q(o.f),f,f,f,f,f,f,k-42),40,f),f,f,20,f,9,f)
 i=o.c
 i.toString
 i=A.wQ(f,A.cE(new A.kN(i,f),52,f),f,f,0,f,f,f)
 e=e.e
-h=A.wQ(f,A.cE(A.bS(f,f,B.m,this.a0Q(e.f),f,f,f,f,f,f,k-48),40,f),f,f,f,20,9,f)
+h=A.wQ(f,A.cE(A.bS(f,f,B.m,this.a0Q(e.f),f,f,f,f,f,f,k-46),40,f),f,f,f,20,9,f)
 g=t.p
-o=A.iI(A.a([A.cE(A.bv(o.b,f,f,f,f,B.AS,B.fp,f),f,100),B.db,A.cE(A.bv(r,f,f,f,f,B.AT,f,f),30,10),B.db,A.cE(A.bv(q,f,f,f,f,B.AT,f,f),30,10),B.db,A.cE(A.bv(" "+e.b,f,f,f,f,B.AS,f,f),f,100)],g),B.R,B.cK,B.M)
+o=A.iI(A.a([A.cE(A.bv(o.b,f,f,f,f,B.AS,B.fp,f),f,100),B.db,A.cE(A.bv(r,f,f,f,f,B.AT,f,f),30,10),B.db,A.cE(A.bv(q,f,f,f,f,B.AT,f,f),30,10),B.db,A.cE(A.bv(e.b,f,f,f,f,B.AS,f,f),f,100)],g),B.R,B.cK,B.M)
 e=e.c
 e.toString
 return A.dE(A.a([b,B.QS,A.cE(A.lv(B.a4,A.a([j,i,h,o,A.wQ(f,A.cE(new A.kN(e,f),52,f),f,f,f,0,f,f)],g),B.ab,B.cR),60,f)],g),B.R,B.Y,B.M)},
@@ -54745,7 +54745,7 @@ q=$.a0
 if((q==null?$.a0=B.n:q).aR(0,j,s).gy6()){q=$.a0
 q=(q==null?$.a0=B.n:q).aR(0,j,s).gaog()}else q=j
 o=$.a0
-return A.dE(A.a([i,B.lC,r,B.Ao,A.cE(A.xN((o==null?$.a0=B.n:o).aR(0,j,s).dy.gl(0)?B.Wv:B.Wp,q,p),40,130)],t.p),B.cA,B.Y,B.M)},
+return A.dE(A.a([i,B.lC,r,B.Ao,A.cE(A.xN((o==null?$.a0=B.n:o).aR(0,j,s).dy.gl(0)?B.Ww:B.Wq,q,p),40,130)],t.p),B.cA,B.Y,B.M)},
 $S:125}
 A.LU.prototype={
 nP(){A.l4($.aD(),new A.a53(),t.CB)}}
@@ -106766,9 +106766,9 @@ B.Mu=new A.d3([50,B.Fa,100,B.F9,200,B.F1,300,B.ns,400,B.F0,500,B.F5,600,B.EW,700
 B.dF=new A.wv(B.Mu,4294198070)
 B.X=new A.hi(6)
 B.AV=new A.q(!0,B.dF,null,null,null,null,18,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ww=new A.d9("PALPITE AQUI",null,B.AV,null,null,null,null,null,null,null)
+B.Wx=new A.d9("PALPITE AQUI",null,B.AV,null,null,null,null,null,null,null)
 B.m=new A.v_(0,"none")
-B.DH=new A.AH(B.Ww,null)
+B.DH=new A.AH(B.Wx,null)
 B.fL=new A.eh(0,B.t)
 B.DJ=new A.Na(B.la)
 B.DK=new A.uZ(null)
@@ -106896,8 +106896,8 @@ B.M=new A.Qw(1,"max")
 B.R=new A.qv(2,"center")
 B.cT=new A.V8(1,"down")
 B.nU=new A.Bc(null,null)
-B.Ws=new A.d9("Participantes: ...",null,null,null,null,null,null,null,null,null)
-B.KJ=A.a(s([B.nU,B.Ws]),t.p)
+B.Wt=new A.d9("Participantes: ...",null,null,null,null,null,null,null,null,null)
+B.KJ=A.a(s([B.nU,B.Wt]),t.p)
 B.Ff=new A.qs(B.aG,B.Y,B.M,B.R,null,B.cT,null,B.KJ,null)
 B.nD=new A.AS(0,"none")
 B.Fg=new A.AS(1,"waiting")
@@ -109326,22 +109326,22 @@ B.Wm=new A.d9(" CANCELAR ",null,B.bC,null,null,null,null,null,null,null)
 B.Wn=new A.d9("PALPITE",null,B.bC,B.au,null,null,null,null,null,null)
 B.Wo=new A.d9("Alterar Senha",null,B.lL,null,null,null,null,null,null,null)
 B.AX=new A.d9("PT",null,B.dX,B.au,null,null,null,null,null,null)
-B.AY=new A.d9("NOME",null,B.dX,B.au,null,null,null,null,null,null)
-B.Wp=new A.d9("ALTERAR SENHA",null,null,null,null,null,null,null,null,null)
-B.Wq=new A.d9("ACESSAR",null,B.bC,null,null,null,null,null,null,null)
-B.Wr=new A.d9("N\xc3O PALPITADO",null,B.AV,null,null,null,null,null,null,null)
-B.Wt=new A.d9("Sair...",null,B.lL,null,null,null,null,null,null,null)
-B.AW=new A.q(!0,B.l,null,null,null,null,20,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Wu=new A.d9("PALPITES",null,B.AW,B.au,null,null,null,null,null,null)
-B.Wv=new A.d9("ALTERANDO...",null,null,null,null,null,null,null,null,null)
-B.Wx=new A.d9("   SALVAR   ",null,B.bC,null,null,null,null,null,null,null)
-B.Wy=new A.d9("MEUS GRUPOS",null,null,null,null,null,null,null,null,null)
-B.Wz=new A.d9("#",null,B.dX,B.au,null,null,null,null,null,null)
-B.WA=new A.d9("   SALVANDO   ",null,B.bC,null,null,null,null,null,null,null)
-B.WB=new A.d9("AC",null,B.dX,B.au,null,null,null,null,null,null)
-B.WC=new A.d9("CLASSIFICA\xc7\xc3O",null,B.AW,B.au,null,null,null,null,null,null)
 B.V3=new A.q(!0,null,null,null,null,null,12,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WD=new A.d9("  Vers\xe3o 1.04.2 ",null,B.V3,null,B.V,null,null,null,null,null)
+B.Wp=new A.d9("  Vers\xe3o 1.04.3 ",null,B.V3,null,B.V,null,null,null,null,null)
+B.AY=new A.d9("NOME",null,B.dX,B.au,null,null,null,null,null,null)
+B.Wq=new A.d9("ALTERAR SENHA",null,null,null,null,null,null,null,null,null)
+B.Wr=new A.d9("ACESSAR",null,B.bC,null,null,null,null,null,null,null)
+B.Ws=new A.d9("N\xc3O PALPITADO",null,B.AV,null,null,null,null,null,null,null)
+B.Wu=new A.d9("Sair...",null,B.lL,null,null,null,null,null,null,null)
+B.AW=new A.q(!0,B.l,null,null,null,null,20,B.X,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Wv=new A.d9("PALPITES",null,B.AW,B.au,null,null,null,null,null,null)
+B.Ww=new A.d9("ALTERANDO...",null,null,null,null,null,null,null,null,null)
+B.Wy=new A.d9("   SALVAR   ",null,B.bC,null,null,null,null,null,null,null)
+B.Wz=new A.d9("MEUS GRUPOS",null,null,null,null,null,null,null,null,null)
+B.WA=new A.d9("#",null,B.dX,B.au,null,null,null,null,null,null)
+B.WB=new A.d9("   SALVANDO   ",null,B.bC,null,null,null,null,null,null,null)
+B.WC=new A.d9("AC",null,B.dX,B.au,null,null,null,null,null,null)
+B.WD=new A.d9("CLASSIFICA\xc7\xc3O",null,B.AW,B.au,null,null,null,null,null,null)
 B.WE=new A.Gn(0,"system")
 B.WF=new A.Gn(1,"light")
 B.WG=new A.Gn(2,"dark")
