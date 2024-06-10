@@ -1,11 +1,11 @@
 {
-    "name": "bolanaredeapp",
+    "name": "Bola na Rede App",
     "short_name": "bolanaredeapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Bola na Rede App, o melhor palpiteiro da galera é você.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
