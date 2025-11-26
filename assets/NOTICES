@@ -2622,7 +2622,6 @@ SUCH DAMAGE.
 cross_file
 flutter_lints
 path_provider
-path_provider_foundation
 path_provider_linux
 path_provider_platform_interface
 path_provider_windows
@@ -9972,6 +9971,7 @@ IN THE MATERIALS.
 --------------------------------------------------------------------------------
 google_fonts
 path_provider_android
+path_provider_foundation
 
 Copyright 2013 The Flutter Authors
 

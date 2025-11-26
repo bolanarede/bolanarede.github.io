@@ -34017,7 +34017,7 @@ $S:2}
 A.aI7.prototype={
 $1(a){var s=A.eb().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/d2913632a4578ee4d0b8b1c4a69888c8a0672c4b/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/035316565ad77281a75305515e4682e6c4c6f7ca/":s)+a},
 $S:48}
 A.a9z.prototype={
 e3(a,b){var s,r=this.a
@@ -51890,7 +51890,7 @@ av3(a){var s=0,r=A.t(t.DP),q,p=this,o,n
 var $async$CN=A.o(function(b,c){if(b===1)return A.p(c,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/campeonatos",A.a9(["Authorization","Bearer "+a.a],o,o),t.z),$async$CN)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/campeonatos",A.a9(["Authorization","Bearer "+a.a],o,o),t.z),$async$CN)
 case 3:n=c
 p.kr(n)
 q=A.by(A.b1v(n.r),t.DP)
@@ -51911,7 +51911,7 @@ av6(a,b){var s=0,r=A.t(t.tj),q,p=this,o,n
 var $async$CQ=A.o(function(c,d){if(c===1)return A.p(d,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/edicoes/"+a,A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CQ)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/edicoes/"+a,A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CQ)
 case 3:n=d
 p.kr(n)
 q=A.by(A.aLa(n.r),t.tj)
@@ -51923,7 +51923,7 @@ A.Zx.prototype={}
 A.tc.prototype={
 b1(){var s=0,r=A.t(t.H),q=this
 var $async$b1=A.o(function(a,b){if(a===1)return A.p(b,r)
-while(true)switch(s){case 0:q.gjl().b="http://127.0.0.1:8080/api/v1/grupos"
+while(true)switch(s){case 0:q.gjl().b="https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/grupos"
 q.gjl().z=B.cQ
 q.ft()
 return A.q(null,r)}})
@@ -51941,7 +51941,7 @@ ava(a,b){var s=0,r=A.t(t.ne),q,p=this,o,n
 var $async$CT=A.o(function(c,d){if(c===1)return A.p(d,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/rodadas/"+a+"/jogos",A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CT)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/rodadas/"+a+"/jogos",A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CT)
 case 3:n=d
 p.kr(n)
 q=A.by(A.aRE(n.r),t.ne)
@@ -51953,7 +51953,7 @@ A.a_N.prototype={}
 A.FD.prototype={
 b1(){var s=0,r=A.t(t.H),q=this
 var $async$b1=A.o(function(a,b){if(a===1)return A.p(b,r)
-while(true)switch(s){case 0:q.gjl().b="http://127.0.0.1:8080/api/v1/palpites"
+while(true)switch(s){case 0:q.gjl().b="https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/palpites"
 q.gjl().z=B.cQ
 q.ft()
 return A.q(null,r)}})
@@ -52016,7 +52016,7 @@ av5(a,b){var s=0,r=A.t(t.y2),q,p=this,o,n
 var $async$CP=A.o(function(c,d){if(c===1)return A.p(d,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/pontuacoes/grupo/"+a,A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CP)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/pontuacoes/grupo/"+a,A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CP)
 case 3:n=d
 p.kr(n)
 q=A.by(A.aMf(n.r),t.y2)
@@ -52029,7 +52029,7 @@ av8(a,b,c){var s=0,r=A.t(t.y2),q,p=this,o,n
 var $async$CS=A.o(function(d,e){if(d===1)return A.p(e,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/pontuacoes/rodada/"+a+"/grupo/"+b,A.a9(["Authorization","Bearer "+c.a],o,o),t.z),$async$CS)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/pontuacoes/rodada/"+a+"/grupo/"+b,A.a9(["Authorization","Bearer "+c.a],o,o),t.z),$async$CS)
 case 3:n=e
 p.kr(n)
 q=A.by(A.aMf(n.r),t.y2)
@@ -52056,7 +52056,7 @@ avb(a,b){var s=0,r=A.t(t.Xt),q,p=this,o,n
 var $async$CU=A.o(function(c,d){if(c===1)return A.p(d,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/rodadas/edicao/"+a,A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CU)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/rodadas/edicao/"+a,A.a9(["Authorization","Bearer "+b.a],o,o),t.z),$async$CU)
 case 3:n=d
 p.kr(n)
 q=A.by(A.b6K(n.r),t.Xt)
@@ -52074,7 +52074,7 @@ var $async$E7=A.o(function(b,c){if(b===1)return A.p(c,r)
 while(true)switch(s){case 0:o=t.z
 n=t.N
 s=3
-return A.n(p.a1Q("http://127.0.0.1:8080/api/v1/auth/register",A.u(o,o),A.a9(["Authorization","Bearer "+a],n,n),o),$async$E7)
+return A.n(p.a1Q("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/auth/register",A.u(o,o),A.a9(["Authorization","Bearer "+a],n,n),o),$async$E7)
 case 3:m=c
 p.kr(m)
 q=A.by(A.X_(m.r),t.Bb)
@@ -52090,7 +52090,7 @@ m=A.a9(["senha_atual",a,"senha_nova",b],n,n)
 n=A.a9(["Authorization","Bearer "+c.a],n,n)
 if(p.cx)A.E("Can not emit events to disposed clients")
 s=3
-return A.n(p.gjl().Ec("http://127.0.0.1:8080/api/v1/participantes",m,null,null,n,null,null,t.z),$async$BQ)
+return A.n(p.gjl().Ec("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/participantes",m,null,null,n,null,null,t.z),$async$BQ)
 case 3:o=e
 p.kr(o)
 q=A.by(A.X_(o.r),t.Bb)
@@ -52103,7 +52103,7 @@ a3Y(a){var s=0,r=A.t(t.Bb),q,p=this,o,n
 var $async$yy=A.o(function(b,c){if(b===1)return A.p(c,r)
 while(true)switch(s){case 0:o=t.N
 s=3
-return A.n(p.me("http://127.0.0.1:8080/api/v1/participantes/logado",A.a9(["Authorization","Bearer "+a.a],o,o),t.z),$async$yy)
+return A.n(p.me("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/participantes/logado",A.a9(["Authorization","Bearer "+a.a],o,o),t.z),$async$yy)
 case 3:n=c
 p.kr(n)
 q=A.by(A.X_(n.r),t.Bb)
