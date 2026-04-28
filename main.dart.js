@@ -54569,7 +54569,7 @@ aye(a){var s=0,r=A.r(t.DP),q,p=this,o,n
 var $async$DH=A.t(function(b,c){if(b===1)return A.o(c,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/campeonatos",A.aa(["Authorization","Bearer "+a.a],o,o),t.z),$async$DH)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/campeonatos",A.aa(["Authorization","Bearer "+a.a],o,o),t.z),$async$DH)
 case 3:n=c
 p.kH(n)
 q=A.bE(A.b3Z(n.r),t.DP)
@@ -54590,7 +54590,7 @@ ayh(a,b){var s=0,r=A.r(t.tj),q,p=this,o,n
 var $async$DL=A.t(function(c,d){if(c===1)return A.o(d,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/edicoes/"+a,A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DL)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/edicoes/"+a,A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DL)
 case 3:n=d
 p.kH(n)
 q=A.bE(A.aMV(n.r),t.tj)
@@ -54602,7 +54602,7 @@ A.a_K.prototype={}
 A.tk.prototype={
 b5(){var s=0,r=A.r(t.H),q=this
 var $async$b5=A.t(function(a,b){if(a===1)return A.o(b,r)
-for(;;)switch(s){case 0:q.gjA().b="http://127.0.0.1:8080/api/v1/grupos"
+for(;;)switch(s){case 0:q.gjA().b="https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/grupos"
 q.gjA().z=B.d_
 q.fG()
 return A.p(null,r)}})
@@ -54620,7 +54620,7 @@ ayl(a,b){var s=0,r=A.r(t.ne),q,p=this,o,n
 var $async$DO=A.t(function(c,d){if(c===1)return A.o(d,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/rodadas/"+a+"/jogos",A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DO)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/rodadas/"+a+"/jogos",A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DO)
 case 3:n=d
 p.kH(n)
 q=A.bE(A.aTN(n.r),t.ne)
@@ -54632,7 +54632,7 @@ A.a12.prototype={}
 A.Gg.prototype={
 b5(){var s=0,r=A.r(t.H),q=this
 var $async$b5=A.t(function(a,b){if(a===1)return A.o(b,r)
-for(;;)switch(s){case 0:q.gjA().b="http://127.0.0.1:8080/api/v1/palpites"
+for(;;)switch(s){case 0:q.gjA().b="https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/palpites"
 q.gjA().z=B.d_
 q.fG()
 return A.p(null,r)}})
@@ -54695,7 +54695,7 @@ ayg(a,b){var s=0,r=A.r(t.y2),q,p=this,o,n
 var $async$DK=A.t(function(c,d){if(c===1)return A.o(d,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/pontuacoes/grupo/"+a,A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DK)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/pontuacoes/grupo/"+a,A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DK)
 case 3:n=d
 p.kH(n)
 q=A.bE(A.aO2(n.r),t.y2)
@@ -54708,7 +54708,7 @@ ayj(a,b,c){var s=0,r=A.r(t.y2),q,p=this,o,n
 var $async$DN=A.t(function(d,e){if(d===1)return A.o(e,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/pontuacoes/rodada/"+a+"/grupo/"+b,A.aa(["Authorization","Bearer "+c.a],o,o),t.z),$async$DN)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/pontuacoes/rodada/"+a+"/grupo/"+b,A.aa(["Authorization","Bearer "+c.a],o,o),t.z),$async$DN)
 case 3:n=e
 p.kH(n)
 q=A.bE(A.aO2(n.r),t.y2)
@@ -54735,7 +54735,7 @@ aym(a,b){var s=0,r=A.r(t.Xt),q,p=this,o,n
 var $async$DP=A.t(function(c,d){if(c===1)return A.o(d,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/rodadas/edicao/"+a,A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DP)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/rodadas/edicao/"+a,A.aa(["Authorization","Bearer "+b.a],o,o),t.z),$async$DP)
 case 3:n=d
 p.kH(n)
 q=A.bE(A.b9i(n.r),t.Xt)
@@ -54753,7 +54753,7 @@ var $async$F0=A.t(function(b,c){if(b===1)return A.o(c,r)
 for(;;)switch(s){case 0:o=t.z
 n=t.N
 s=3
-return A.n(p.a49("http://127.0.0.1:8080/api/v1/auth/register",A.u(o,o),A.aa(["Authorization","Bearer "+a],n,n),o),$async$F0)
+return A.n(p.a49("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/auth/register",A.u(o,o),A.aa(["Authorization","Bearer "+a],n,n),o),$async$F0)
 case 3:m=c
 p.kH(m)
 q=A.bE(A.Yb(m.r),t.Bb)
@@ -54769,7 +54769,7 @@ m=A.aa(["senha_atual",a,"senha_nova",b],n,n)
 n=A.aa(["Authorization","Bearer "+c.a],n,n)
 if(p.cx)A.B("Can not emit events to disposed clients")
 s=3
-return A.n(p.gjA().F5("http://127.0.0.1:8080/api/v1/participantes",m,null,null,n,null,null,t.z),$async$CG)
+return A.n(p.gjA().F5("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/participantes",m,null,null,n,null,null,t.z),$async$CG)
 case 3:o=e
 p.kH(o)
 q=A.bE(A.Yb(o.r),t.Bb)
@@ -54782,7 +54782,7 @@ a6g(a){var s=0,r=A.r(t.Bb),q,p=this,o,n
 var $async$zc=A.t(function(b,c){if(b===1)return A.o(c,r)
 for(;;)switch(s){case 0:o=t.N
 s=3
-return A.n(p.mD("http://127.0.0.1:8080/api/v1/participantes/logado",A.aa(["Authorization","Bearer "+a.a],o,o),t.z),$async$zc)
+return A.n(p.mD("https://natural-pearle-bolanaredebackend-298348c4.koyeb.app/api/v1/participantes/logado",A.aa(["Authorization","Bearer "+a.a],o,o),t.z),$async$zc)
 case 3:n=c
 p.kH(n)
 q=A.bE(A.Yb(n.r),t.Bb)
